@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 mightymeld.secrets
+# Local Netlify folder
+.netlify
